@@ -1,1 +1,1 @@
-#!/bin/bash/env python
+#!/bin/bash/env $PYFILE
